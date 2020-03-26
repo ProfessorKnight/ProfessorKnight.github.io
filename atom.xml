@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ProfessorKnight.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-25T03:43:32.872Z</updated>
+    <updated>2020-03-26T05:38:16.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ProfessorKnight.github.io"/>
     <link rel="self" href="https://ProfessorKnight.github.io/atom.xml"/>
@@ -10,6 +10,131 @@
     <logo>https://ProfessorKnight.github.io/images/avatar.png</logo>
     <icon>https://ProfessorKnight.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[# 樊登读书]]></title>
+        <id>https://ProfessorKnight.github.io/post/fan-deng-du-shu/</id>
+        <link href="https://ProfessorKnight.github.io/post/fan-deng-du-shu/">
+        </link>
+        <updated>2020-03-26T05:37:39.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<blockquote>
+<pre><code>  推荐语：
+
+  如果你无法坚持看书，就让别人读给你听吧。
+</code></pre>
+</blockquote>
+<hr>
+<p>很多人想读书，买了书读了几页就读不下去了，或者有的书的包装都没有拆，看到一本本崭新的书放在那里，反而更焦虑。那么你还没有主备好自己阅读，我建议你从樊登读书开始，先听书。</p>
+<p>我为会员朋友整理了樊登读书16年到现在的资料，希望大家从听书开始，持续学习，获得持续的进步。</p>
+<p>会员免费获取位置：会员群--&gt;2. 成人--&gt;读书</p>
+<hr>
+<p><em><strong>以下内容可以不看</strong></em></p>
+<p>樊登先生说很多人找他荐书，但是书买来了又不看，于是他萌生了创建读书会的想法。我之前给学生上课的时候，也有同样的感觉，我所分享的东西，大家也觉得好，但是能够付诸实施的人确寥寥无几，我也一直在努力寻找解决的方案。</p>
+<p>我听樊登一般都是开车的时候，运动的时候或者做家务的时候，觉得好的，会多听两边，读书笔记和读书心得很重要，有条件一定要做，只有不断的进行总结与反思，自己才会有所收获。</p>
+<p>最近在筹备我的会员群，已经有几十个会员加入了，我很早以前就开始和身边的朋友不断的分享好东西，也很早之前就有创建会员群的想法，最近才开始实施，虽然有点晚，但总归是开始了。这个会员群是我创建的第一个社群，虽然入会费不高，但我会坚持做下去，请大家放心，保证内容质量，不会让大家失望的。以后的日子，我会和大家在朋友圈分享更多的东西，期待有缘人加入我的会员，如果你觉得不错，请把我推荐给您的朋友，你的认可，是我努力的动力。</p>
+<hr>
+<p>2020年3月14日</p>
+<hr>
+<center>微信号：amh_tech</center>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[# 时间管理-Randy Pausch]]></title>
+        <id>https://ProfessorKnight.github.io/post/shi-jian-guan-li-randy-pausch/</id>
+        <link href="https://ProfessorKnight.github.io/post/shi-jian-guan-li-randy-pausch/">
+        </link>
+        <updated>2020-03-26T05:36:45.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<blockquote>
+<pre><code>  时间管理可以让你安排出更多的时间，陪伴你爱的人。
+
+  有一天你可能会发觉，你拥有的比你想象的少。
+</code></pre>
+</blockquote>
+<p><strong>相关文件路径：会员群--&gt;3.成人--&gt;我的推荐-视频类</strong></p>
+<hr>
+<p>第一次听Randy Pausch教授的演讲已经是十几年前了，那时的他，终究还是没能战胜病魔。</p>
+<p>听了他的演讲之后，我开始着手认真对待自己的时间，虽然这些年自己并没有做到自己满意的效果，但是仍旧收益良多。</p>
+<p>核心内容如下（这里我就不展开了，感兴趣的可以自己搜索，日后的分享中还会设计这些内容）：</p>
+<ol>
+<li>TODO list</li>
+<li>2-8法则</li>
+<li>Cover's four-quadrant TODO</li>
+</ol>
+<p>里面一些提示也很重要：电脑显示器两个以上（谁用谁知道）</p>
+<p>和其它所有事情一样，时间管理中最重要的事情就是执行，没有做过时间管理的人，如果想开始尝试，那就马上迈出你的第一步，<strong>打扫干净房间</strong>。</p>
+<hr>
+<p>微信：amh_tech</p>
+<p>2020年3月22日</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[# 微信多开脚本]]></title>
+        <id>https://ProfessorKnight.github.io/post/wei-xin-duo-kai-jiao-ben/</id>
+        <link href="https://ProfessorKnight.github.io/post/wei-xin-duo-kai-jiao-ben/">
+        </link>
+        <updated>2020-03-26T05:35:42.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<blockquote>
+<pre><code>  推荐语：
+
+  电脑上同时登陆多个微信最简单的方法。
+</code></pre>
+</blockquote>
+<hr>
+<p>适应操作系统：windows</p>
+<p><strong>脚本位置：会员群 --&gt;2. 成人--&gt;效率提升</strong></p>
+<hr>
+<p>下面的批处理文件可以实现双开微信，如果想开三个，中间就再加一句命令。如果微信程序不是默认安装在C盘的，就将文件中的路径修改为正确的安装路径。或者卸载微信重新默认安装。</p>
+<p>将下面的文本保存再记事本中，保存成<code>.bat</code>的格式，运行即可实现多开（运行时请关闭开着的微信程序）。</p>
+<p>可以实现双开的<code>bat</code>文件已经放入网盘群中，会员自取。</p>
+<pre><code class="language-c">@echo off
+
+start /d &quot;C:\Program Files (x86)\Tencent\WeChat\&quot; WeChat.exe
+
+start /d &quot;C:\Program Files (x86)\Tencent\WeChat\&quot; WeChat.exe
+
+exit
+</code></pre>
+<hr>
+<p><strong>以下内容可以不看</strong></p>
+<p>最近在筹备我的会员群，已经有几十个会员加入了，这个会员群我会坚持做下去，请大家放心，虽然入会费不高，但不会让大家失望。以后的日子，我会和大家在朋友圈分享更多的东西，如果相信我，可以加入我的会员，把我推荐给您的朋友。</p>
+<hr>
+<p>2020年3月13日</p>
+<hr>
+<center>微信号：amh_tech</center>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[# Everything：人人可用的效率提升利器]]></title>
+        <id>https://ProfessorKnight.github.io/post/everythingren-ren-ke-yong-de-xiao-lu-ti-sheng-li-qi/</id>
+        <link href="https://ProfessorKnight.github.io/post/everythingren-ren-ke-yong-de-xiao-lu-ti-sheng-li-qi/">
+        </link>
+        <updated>2020-03-26T05:33:14.000Z</updated>
+        <content type="html"><![CDATA[<p><strong><code>Everything</code>---快速搜索电脑中的文件</strong></p>
+<hr>
+<blockquote>
+<pre><code>  推荐语：
+  
+  如果只给大家推荐一款软件，我推荐它。
+</code></pre>
+</blockquote>
+<hr>
+<p>很多人会有无法找到电脑中的文件的烦恼，windows的搜索功能无力吐槽，<code>Everything</code>这款软件能根据文件名称快速找到电脑中的文件。</p>
+<p>适应操作系统：windows</p>
+<p>官方网站：https://www.voidtools.com/</p>
+<p>是否收费：免费软件</p>
+<p>软件位置：会员群-2. 成人-效率提升</p>
+<hr>
+<p><em><strong>以下内容可以不看</strong></em></p>
+<p>工作了这么多年，<code>Everything</code>这款软件陪伴我的时间最长，为我节省了大量的时间，我之前说过，会员在我这里花出去的钱，我会让大家都“省出来”的，那么就从<code>Everything</code>开始吧。</p>
+<p>只要用电脑工作且是<code>Windows</code>操作系统的，我就建议安装这款软件，从此不用考虑文件放在那里，只要给文件取个好名字，<code>Everything</code>都可以通过关键词快速定位文件位置，当然，它还有很多高级的功能，感兴趣的可以自行探索。相信我，作为第一个被我推荐的软件，不会让大家失望。</p>
+<p>最近在筹备我的会员群，已经有几十个会员加入了，这个会员群我会坚持做下去，请大家放心，虽然入会费不高，但不会让大家失望。以后的日子，我会和大家在朋友圈分享更多的东西，如果相信我，可以加入我的会员，把我推荐给您的朋友。</p>
+<hr>
+<p>2020年3月13日</p>
+<hr>
+<center>微信号：amh_tech</center>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[希腊字母]]></title>
         <id>https://ProfessorKnight.github.io/post/xi-la-zi-mu/</id>
