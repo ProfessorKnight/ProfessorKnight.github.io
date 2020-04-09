@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ProfessorKnight.github.io</id>
-    <title>Professor Knight</title>
-    <updated>2020-04-09T14:40:23.615Z</updated>
+    <title>恐龙老师</title>
+    <updated>2020-04-09T14:41:52.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ProfessorKnight.github.io"/>
     <link rel="self" href="https://ProfessorKnight.github.io/atom.xml"/>
-    <subtitle>恐龙老师</subtitle>
+    <subtitle>Professor Knight</subtitle>
     <logo>https://ProfessorKnight.github.io/images/avatar.png</logo>
     <icon>https://ProfessorKnight.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Professor Knight</rights>
+    <rights>All rights reserved 2020, 恐龙老师</rights>
     <entry>
         <title type="html"><![CDATA[# 樊登读书]]></title>
         <id>https://ProfessorKnight.github.io/post/fan-deng-du-shu/</id>
